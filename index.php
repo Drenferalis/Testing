@@ -2,8 +2,8 @@
 
 echo "add a title";
 echo "hello world";
-echo "this is a page"
-
+echo "this is a page";
 echo " add some content";
+echo "add some extra content";
 
 ?>
